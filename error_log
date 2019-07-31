@@ -1,0 +1,220 @@
+[26-Aug-2016 03:54:14 America/Denver] PHP Fatal error:  require(): Failed opening required 'simple_html_dom.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/baycodes/public_html/pr/trackasins/application/views/index.php on line 2
+[26-Aug-2016 07:28:07 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/baycodes/public_html/pr/trackasins/application/views/index.php on line 230
+[26-Aug-2016 07:28:56 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/baycodes/public_html/pr/trackasins/application/views/index.php on line 231
+[26-Aug-2016 07:29:01 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/baycodes/public_html/pr/trackasins/application/views/index.php on line 231
+[26-Aug-2016 08:22:47 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home/baycodes/public_html/pr/trackasins/application/views/index.php on line 154
+[26-Aug-2016 08:23:34 America/Denver] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/baycodes/public_html/pr/trackasins/application/views/index.php on line 154
+[27-Aug-2016 02:50:46 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/baycodes/public_html/pr/trackasins/application/views/index.php on line 373
+[27-Aug-2016 03:51:57 America/Denver] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baycodes/public_html/pr/trackasins/application/views/index.php on line 335
+[28-Aug-2016 19:29:10 America/Denver] PHP Parse error:  syntax error, unexpected 'height' (T_STRING), expecting ',' or ';' in /home/baycodes/public_html/pr/trackasins/application/views/index.php on line 289
+[29-Aug-2016 14:14:06 America/Denver] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/baycodes/public_html/pr/trackasins/application/views/index.php on line 18
+[29-Aug-2016 14:14:12 America/Denver] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/baycodes/public_html/pr/trackasins/application/views/index.php on line 18
+[29-Aug-2016 14:15:11 America/Denver] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/baycodes/public_html/pr/trackasins/application/views/index.php on line 18
+[29-Aug-2016 14:19:02 America/Denver] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/baycodes/public_html/pr/trackasins/application/views/index.php on line 18
+[08-Sep-2016 01:47:36 America/Denver] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/baycodes/public_html/pr/trackasins/application/controllers/Dashboard.php on line 28
+[08-Sep-2016 01:48:59 America/Denver] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/baycodes/public_html/pr/trackasins/application/controllers/Dashboard.php on line 39
+[08-Sep-2016 03:08:51 America/Denver] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/baycodes/public_html/pr/trackasins/application/controllers/Dashboard.php on line 39
+[08-Sep-2016 05:46:21 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/baycodes/public_html/pr/trackasins/application/views/dashboard.php on line 841
+[09-Sep-2016 03:15:16 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/baycodes/public_html/pr/trackasins/application/views/dashboard.php on line 659
+[09-Sep-2016 04:59:29 America/Denver] PHP Parse error:  syntax error, unexpected '"' in /home/baycodes/public_html/pr/trackasins/application/views/dashboard.php on line 858
+[10-Sep-2016 02:55:24 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home/baycodes/public_html/pr/trackasins/application/models/Common_model.php on line 193
+[10-Sep-2016 03:14:23 America/Denver] PHP Fatal error:  Call to a member function insertvalues() on null in /home/baycodes/public_html/pr/trackasins/application/controllers/Dashboard.php on line 84
+[14-Sep-2016 03:56:06 America/Denver] PHP Fatal error:  Call to a member function insertvalues() on null in /home/baycodes/public_html/pr/trackasins/application/controllers/Dashboard.php on line 84
+[14-Sep-2016 03:56:09 America/Denver] PHP Fatal error:  Call to a member function insertvalues() on null in /home/baycodes/public_html/pr/trackasins/application/controllers/Dashboard.php on line 84
+[14-Sep-2016 03:56:16 America/Denver] PHP Fatal error:  Call to a member function insertvalues() on null in /home/baycodes/public_html/pr/trackasins/application/controllers/Dashboard.php on line 84
+[14-Sep-2016 03:56:16 America/Denver] PHP Fatal error:  Call to a member function insertvalues() on null in /home/baycodes/public_html/pr/trackasins/application/controllers/Dashboard.php on line 84
+[14-Sep-2016 03:56:17 America/Denver] PHP Fatal error:  Call to a member function insertvalues() on null in /home/baycodes/public_html/pr/trackasins/application/controllers/Dashboard.php on line 84
+[14-Sep-2016 03:56:19 America/Denver] PHP Fatal error:  Call to a member function insertvalues() on null in /home/baycodes/public_html/pr/trackasins/application/controllers/Dashboard.php on line 84
+[14-Sep-2016 03:56:27 America/Denver] PHP Fatal error:  Call to a member function insertvalues() on null in /home/baycodes/public_html/pr/trackasins/application/controllers/Dashboard.php on line 84
+[14-Sep-2016 03:56:30 America/Denver] PHP Fatal error:  Call to a member function insertvalues() on null in /home/baycodes/public_html/pr/trackasins/application/controllers/Dashboard.php on line 84
+[14-Sep-2016 03:56:30 America/Denver] PHP Fatal error:  Call to a member function insertvalues() on null in /home/baycodes/public_html/pr/trackasins/application/controllers/Dashboard.php on line 84
+[14-Sep-2016 03:56:30 America/Denver] PHP Fatal error:  Call to a member function insertvalues() on null in /home/baycodes/public_html/pr/trackasins/application/controllers/Dashboard.php on line 84
+[14-Sep-2016 03:56:30 America/Denver] PHP Fatal error:  Call to a member function insertvalues() on null in /home/baycodes/public_html/pr/trackasins/application/controllers/Dashboard.php on line 84
+[14-Sep-2016 03:56:30 America/Denver] PHP Fatal error:  Call to a member function insertvalues() on null in /home/baycodes/public_html/pr/trackasins/application/controllers/Dashboard.php on line 84
+[15-Sep-2016 01:20:04 America/Denver] PHP Fatal error:  Cannot redeclare Dashboard::SaveToDB() in /home/baycodes/public_html/pr/trackasins/application/controllers/Dashboard.php on line 89
+[16-Sep-2016 00:47:03 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home/baycodes/public_html/pr/trackasins/application/controllers/Dashboard.php on line 109
+[16-Sep-2016 00:49:04 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/baycodes/public_html/pr/trackasins/application/controllers/Dashboard.php on line 217
+[16-Sep-2016 00:50:34 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/baycodes/public_html/pr/trackasins/application/controllers/Dashboard.php on line 116
+[16-Sep-2016 00:52:04 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/baycodes/public_html/pr/trackasins/application/controllers/Dashboard.php on line 111
+[16-Sep-2016 00:52:07 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/baycodes/public_html/pr/trackasins/application/controllers/Dashboard.php on line 111
+[16-Sep-2016 00:52:10 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/baycodes/public_html/pr/trackasins/application/controllers/Dashboard.php on line 111
+[16-Sep-2016 01:20:13 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home/baycodes/public_html/pr/trackasins/application/controllers/Dashboard.php on line 105
+[16-Sep-2016 03:25:31 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home/baycodes/public_html/pr/trackasins/application/controllers/Dashboard.php on line 105
+[16-Sep-2016 04:09:55 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home/baycodes/public_html/pr/trackasins/application/controllers/Dashboard.php on line 110
+[16-Sep-2016 04:11:01 America/Denver] PHP Parse error:  syntax error, unexpected '$queryLatest' (T_VARIABLE) in /home/baycodes/public_html/pr/trackasins/application/controllers/Dashboard.php on line 112
+[16-Sep-2016 05:38:14 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/baycodes/public_html/pr/trackasins/application/controllers/Dashboard.php on line 111
+[16-Sep-2016 05:40:06 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/baycodes/public_html/pr/trackasins/application/controllers/Dashboard.php on line 111
+[17-Sep-2016 04:36:41 America/Denver] PHP Parse error:  syntax error, unexpected '"><span style='color:green; fo' (T_CONSTANT_ENCAPSED_STRING) in /home/baycodes/public_html/pr/trackasins/application/controllers/Dashboard.php on line 115
+[18-Sep-2016 23:34:04 America/Denver] PHP Parse error:  syntax error, unexpected '" height="' (T_CONSTANT_ENCAPSED_STRING) in /home/baycodes/public_html/pr/trackasins/application/controllers/Dashboard.php on line 113
+[19-Sep-2016 01:33:47 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/baycodes/public_html/pr/trackasins/application/controllers/Dashboard.php on line 116
+[19-Sep-2016 07:56:20 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/baycodes/public_html/pr/trackasins/application/views/dashboard.php on line 924
+[20-Sep-2016 03:43:23 America/Denver] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/baycodes/public_html/pr/trackasins/application/controllers/Cron.php on line 248
+[20-Sep-2016 03:45:15 America/Denver] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/baycodes/public_html/pr/trackasins/application/controllers/Cron.php on line 252
+[20-Sep-2016 05:35:36 America/Denver] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/baycodes/public_html/pr/trackasins/application/controllers/Cron.php on line 302
+[21-Sep-2016 23:32:01 America/Denver] PHP Parse error:  syntax error, unexpected '?>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baycodes/public_html/pr/trackasins/application/views/notification.php on line 150
+[23-Sep-2016 01:25:07 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/baycodes/public_html/pr/trackasins/application/views/cron_job.php on line 190
+[23-Sep-2016 01:38:02 America/Denver] PHP Warning:  Unterminated comment starting line 273 in /home/baycodes/public_html/pr/trackasins/application/views/cron_job.php on line 273
+[23-Sep-2016 01:51:06 America/Denver] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/baycodes/public_html/pr/trackasins/application/views/mailgun.php on line 2
+[23-Sep-2016 01:51:41 America/Denver] PHP Fatal error:  Class 'Mailgun\Mailgun' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun.php on line 6
+[23-Sep-2016 01:52:37 America/Denver] PHP Fatal error:  Class 'Mailgun' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun.php on line 6
+[23-Sep-2016 01:53:26 America/Denver] PHP Fatal error:  Class 'Mailgun' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun.php on line 6
+[23-Sep-2016 03:07:31 America/Denver] PHP Fatal error:  Class 'Mailgun' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun.php on line 6
+[23-Sep-2016 03:33:10 America/Denver] PHP Fatal error:  Class 'Mailgun' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun.php on line 6
+[23-Sep-2016 03:39:12 America/Denver] PHP Fatal error:  Class 'Mailgun' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun.php on line 6
+[23-Sep-2016 03:41:27 America/Denver] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 2
+[23-Sep-2016 03:42:24 America/Denver] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 2
+[23-Sep-2016 03:42:29 America/Denver] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 2
+[23-Sep-2016 03:43:01 America/Denver] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 2
+[23-Sep-2016 03:44:08 America/Denver] PHP Fatal error:  Class 'Mailgun' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 6
+[23-Sep-2016 03:47:28 America/Denver] PHP Fatal error:  Class 'Mailgun' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 6
+[23-Sep-2016 03:47:34 America/Denver] PHP Fatal error:  Class 'Mailgun' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 6
+[23-Sep-2016 03:49:04 America/Denver] PHP Fatal error:  Class 'Mailgun\Mailgun' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 6
+[23-Sep-2016 03:50:44 America/Denver] PHP Parse error:  syntax error, unexpected '-', expecting ',' or ';' in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 3
+[23-Sep-2016 03:52:14 America/Denver] PHP Fatal error:  Class 'Mailgun\Mailgun' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 6
+[23-Sep-2016 03:53:23 America/Denver] PHP Fatal error:  Class 'Mailgun' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 6
+[23-Sep-2016 03:55:16 America/Denver] PHP Fatal error:  Class 'Mailgun\Connection\RestClient' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 51
+[23-Sep-2016 03:55:26 America/Denver] PHP Fatal error:  Class 'Mailgun\Connection\RestClient' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 51
+[23-Sep-2016 03:56:11 America/Denver] PHP Fatal error:  Class 'Mailgun\Connection\RestClient' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 51
+[23-Sep-2016 03:59:45 America/Denver] PHP Fatal error:  Class 'Mailgun\Constants\Api' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 100
+[23-Sep-2016 04:01:31 America/Denver] PHP Fatal error:  Class 'Mailgun\Constants\Api' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 99
+[23-Sep-2016 04:05:17 America/Denver] PHP Fatal error:  Class 'Mailgun\Constants\Api' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 100
+[23-Sep-2016 04:05:58 America/Denver] PHP Fatal error:  Class 'Http\Message\MultipartStream\MultipartStreamBuilder' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 103
+[23-Sep-2016 04:08:04 America/Denver] PHP Fatal error:  Class 'Http\Message\MultipartStream\MultipartStreamBuilder' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 103
+[23-Sep-2016 04:10:12 America/Denver] PHP Fatal error:  Class 'Mailgun\Constants\Api' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 99
+[23-Sep-2016 04:10:17 America/Denver] PHP Fatal error:  Class 'Mailgun\Constants\Api' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 99
+[23-Sep-2016 04:11:19 America/Denver] PHP Fatal error:  Class 'Mailgun\Constants\Api' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 99
+[23-Sep-2016 04:12:30 America/Denver] PHP Fatal error:  Class 'Mailgun\Constants\Api' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 99
+[23-Sep-2016 04:15:35 America/Denver] PHP Fatal error:  Class 'Http\Message\MultipartStream\MultipartStreamBuilder' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 112
+[23-Sep-2016 04:17:10 America/Denver] PHP Fatal error:  Class 'Http\Message\MultipartStream\MultipartStreamBuilder' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 116
+[23-Sep-2016 04:19:46 America/Denver] PHP Fatal error:  Class 'Mailgun\Connection\MultipartStreamBuilder' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 101
+[23-Sep-2016 04:33:35 America/Denver] PHP Fatal error:  Class 'Mailgun' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 578
+[23-Sep-2016 04:41:32 America/Denver] PHP Fatal error:  Class 'RestClient' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 598
+[23-Sep-2016 04:42:46 America/Denver] PHP Fatal error:  Class 'Mailgun' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 578
+[23-Sep-2016 04:42:49 America/Denver] PHP Fatal error:  Class 'Mailgun' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 578
+[23-Sep-2016 04:43:55 America/Denver] PHP Fatal error:  Class 'Mailgun' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 578
+[23-Sep-2016 04:45:46 America/Denver] PHP Fatal error:  Class 'Mailgun' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 578
+[23-Sep-2016 04:51:13 America/Denver] PHP Fatal error:  Class 'Mailgun' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 578
+[23-Sep-2016 04:52:53 America/Denver] PHP Fatal error:  Class 'Mailgun' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 578
+[23-Sep-2016 04:55:30 America/Denver] PHP Fatal error:  Class 'Mailgun' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 578
+[23-Sep-2016 04:57:59 America/Denver] PHP Fatal error:  Class 'Mailgun' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 578
+[23-Sep-2016 04:59:00 America/Denver] PHP Fatal error:  Call to a member function sendMessage() on string in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 583
+[23-Sep-2016 05:00:17 America/Denver] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 429
+[23-Sep-2016 05:01:27 America/Denver] PHP Fatal error:  Call to a member function sendMessage() on string in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 583
+[23-Sep-2016 05:02:15 America/Denver] PHP Fatal error:  Class 'Mailgun' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 578
+[23-Sep-2016 05:06:59 America/Denver] PHP Parse error:  syntax error, unexpected '$mgClient' (T_VARIABLE) in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 578
+[23-Sep-2016 05:19:14 America/Denver] PHP Parse error:  syntax error, unexpected '$mgClient' (T_VARIABLE) in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 578
+[23-Sep-2016 05:20:53 America/Denver] PHP Fatal error:  Cannot redeclare class Mailgun\Mailgun in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/src/Mailgun/Mailgun.php on line 27
+[23-Sep-2016 05:32:23 America/Denver] PHP Fatal error:  Class 'Mailgun' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 578
+[23-Sep-2016 05:33:56 America/Denver] PHP Fatal error:  Class 'Mailgun' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 578
+[23-Sep-2016 05:37:03 America/Denver] PHP Fatal error:  Class 'Mailgun' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 578
+[23-Sep-2016 05:37:08 America/Denver] PHP Fatal error:  Class 'Mailgun' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 578
+[23-Sep-2016 05:38:18 America/Denver] PHP Fatal error:  Class 'Mailgun' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 578
+[23-Sep-2016 05:39:44 America/Denver] PHP Parse error:  syntax error, unexpected '$mgClient' (T_VARIABLE) in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 581
+[23-Sep-2016 05:40:17 America/Denver] PHP Parse error:  syntax error, unexpected '$mgc' (T_VARIABLE) in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 581
+[23-Sep-2016 05:40:59 America/Denver] PHP Parse error:  syntax error, unexpected '$mgc' (T_VARIABLE) in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 581
+[23-Sep-2016 05:42:08 America/Denver] PHP Fatal error:  Class 'Mailgun' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 581
+[23-Sep-2016 05:43:37 America/Denver] PHP Fatal error:  Class 'Mg_rest\Mailgun' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 582
+[23-Sep-2016 05:44:20 America/Denver] PHP Fatal error:  Class 'Mg_rest\Mailgun' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 582
+[23-Sep-2016 05:44:23 America/Denver] PHP Fatal error:  Class 'Mg_rest\Mailgun' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 582
+[23-Sep-2016 05:48:02 America/Denver] PHP Fatal error:  Class 'RestClient' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 606
+[23-Sep-2016 05:50:23 America/Denver] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting function (T_FUNCTION) in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 583
+[23-Sep-2016 05:53:31 America/Denver] PHP Fatal error:  Call to undefined method RestClient::post() in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 600
+[23-Sep-2016 05:54:16 America/Denver] PHP Fatal error:  Call to undefined method RestClient::post() in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 600
+[23-Sep-2016 05:58:01 America/Denver] PHP Fatal error:  Call to undefined method Mailgun::post() in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 543
+[23-Sep-2016 06:25:52 America/Denver] PHP Fatal error:  Call to undefined method Mailgun::post() in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 543
+[23-Sep-2016 06:32:27 America/Denver] PHP Fatal error:  Call to undefined method Mailgun::post() in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 543
+[23-Sep-2016 06:32:30 America/Denver] PHP Fatal error:  Call to undefined method Mailgun::post() in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 543
+[23-Sep-2016 07:07:13 America/Denver] PHP Parse error:  syntax error, unexpected ',' in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 784
+[23-Sep-2016 07:15:04 America/Denver] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 782
+[23-Sep-2016 23:18:34 America/Denver] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 145
+[23-Sep-2016 23:18:38 America/Denver] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 145
+[23-Sep-2016 23:20:08 America/Denver] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' or '{' in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 541
+[23-Sep-2016 23:39:11 America/Denver] PHP Fatal error:  Class 'Mailgun' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 776
+[23-Sep-2016 23:42:17 America/Denver] PHP Fatal error:  Class 'Mailgun' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 776
+[23-Sep-2016 23:44:22 America/Denver] PHP Fatal error:  Class 'Mailgun' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 776
+[24-Sep-2016 00:04:37 America/Denver] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 2
+[24-Sep-2016 02:46:28 America/Denver] PHP Parse error:  syntax error, unexpected '$to' (T_VARIABLE), expecting function (T_FUNCTION) in /home/baycodes/public_html/pr/trackasins/application/controllers/Api.php on line 122
+[24-Sep-2016 14:29:04 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 2
+[24-Sep-2016 15:00:43 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 2
+[24-Sep-2016 15:05:34 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 2
+[24-Sep-2016 15:07:30 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 2
+[24-Sep-2016 15:08:08 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 2
+[24-Sep-2016 15:13:02 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 2
+[24-Sep-2016 15:16:16 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 2
+[24-Sep-2016 15:21:25 Asia/Kolkata] PHP Fatal error:  Class 'Mailgun' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 776
+[24-Sep-2016 15:23:54 Asia/Kolkata] PHP Fatal error:  Class 'Mailgun' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 776
+[24-Sep-2016 15:24:03 Asia/Kolkata] PHP Fatal error:  Class 'Mailgun' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 776
+[24-Sep-2016 16:06:15 Asia/Kolkata] PHP Fatal error:  Class 'Mailgun' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 776
+[24-Sep-2016 16:06:19 Asia/Kolkata] PHP Fatal error:  Class 'Mailgun' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 776
+[24-Sep-2016 16:11:35 Asia/Kolkata] PHP Fatal error:  Class 'RestClient' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 524
+[24-Sep-2016 16:12:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '*', expecting function (T_FUNCTION) in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 734
+[24-Sep-2016 16:13:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '*', expecting function (T_FUNCTION) in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 735
+[26-Sep-2016 10:56:08 Asia/Kolkata] PHP Fatal error:  Class 'PHPMailer' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/smtp.php on line 5
+[26-Sep-2016 11:18:50 Asia/Kolkata] PHP Fatal error:  Class 'PHPMailer' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/smtp.php on line 5
+[26-Sep-2016 11:20:12 Asia/Kolkata] PHP Fatal error:  Class 'PHPMailer' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/smtp.php on line 3
+[26-Sep-2016 11:28:56 Asia/Kolkata] PHP Fatal error:  Class 'PHPMailer' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/smtp.php on line 3
+[26-Sep-2016 14:36:21 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 2
+[28-Sep-2016 14:40:26 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 2
+[28-Sep-2016 15:49:00 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 2
+[28-Sep-2016 15:49:03 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 2
+[28-Sep-2016 15:49:05 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 2
+[28-Sep-2016 15:49:11 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/m.php on line 2
+[28-Sep-2016 16:47:56 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/originalmail.php on line 2
+[28-Sep-2016 17:13:50 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/originalmail.php on line 2
+[28-Sep-2016 17:13:50 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/originalmail.php on line 2
+[28-Sep-2016 17:13:53 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php-master/originalmail.php on line 2
+[29-Sep-2016 18:04:19 Asia/Kolkata] PHP Fatal error:  Class 'Mailgun' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php/mailgunputty.php on line 3
+[30-Sep-2016 10:51:39 Asia/Kolkata] PHP Fatal error:  Class 'Clockwork' not found in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php/mailgunputty.php on line 22
+[30-Sep-2016 12:28:04 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$ch' (T_VARIABLE) in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php/sms.php on line 54
+[30-Sep-2016 12:35:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$ch' (T_VARIABLE) in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php/sms.php on line 54
+[30-Sep-2016 12:35:36 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$ch' (T_VARIABLE) in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php/sms.php on line 54
+[30-Sep-2016 12:57:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php/sms.php on line 75
+[30-Sep-2016 12:59:35 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$', expecting variable (T_VARIABLE) in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php/sms.php on line 4
+[30-Sep-2016 13:07:19 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ''response'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php/sms.php on line 27
+[30-Sep-2016 05:27:31 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/baycodes/public_html/pr/trackasins/application/views/cron_job.php on line 224
+[30-Sep-2016 05:29:06 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/baycodes/public_html/pr/trackasins/application/views/cron_job.php on line 226
+[02-Oct-2016 23:29:04 America/Denver] PHP Parse error:  syntax error, unexpected '$msg_send' (T_VARIABLE) in /home/baycodes/public_html/pr/trackasins/application/views/cron_job.php on line 323
+[02-Oct-2016 23:29:48 America/Denver] PHP Parse error:  syntax error, unexpected '&' in /home/baycodes/public_html/pr/trackasins/application/views/cron_job.php on line 323
+[02-Oct-2016 23:49:08 America/Denver] PHP Parse error:  syntax error, unexpected '=' in /home/baycodes/public_html/pr/trackasins/application/views/cron_job.php on line 322
+[03-Oct-2016 05:27:47 America/Denver] PHP Parse error:  syntax error, unexpected '$msg_send' (T_VARIABLE) in /home/baycodes/public_html/pr/trackasins/application/views/cron_job.php on line 323
+[03-Oct-2016 05:34:14 America/Denver] PHP Parse error:  syntax error, unexpected '$msg_send' (T_VARIABLE) in /home/baycodes/public_html/pr/trackasins/application/views/cron_job.php on line 323
+[04-Oct-2016 01:18:32 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/baycodes/public_html/pr/trackasins/application/views/cron_job.php on line 231
+[04-Oct-2016 01:20:55 America/Denver] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/baycodes/public_html/pr/trackasins/application/views/cron_job.php on line 196
+[04-Oct-2016 01:59:07 America/Denver] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/baycodes/public_html/pr/trackasins/application/views/cron_job.php on line 299
+[04-Oct-2016 02:00:34 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/baycodes/public_html/pr/trackasins/application/views/cron_job.php on line 333
+[04-Oct-2016 02:55:03 America/Denver] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/baycodes/public_html/pr/trackasins/application/views/cron_job.php on line 299
+[04-Oct-2016 03:03:45 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/baycodes/public_html/pr/trackasins/application/views/cron_job.php on line 281
+[04-Oct-2016 16:55:58 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=' in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php/mailgunputty.php on line 6
+[04-Oct-2016 16:57:48 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=' in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php/mailgunputty.php on line 6
+[04-Oct-2016 17:02:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php/mailgunputty.php on line 11
+[04-Oct-2016 18:19:42 Asia/Kolkata] PHP Fatal error:  Call to undefined function chk_satus() in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php/mailgunputty.php on line 12
+[04-Oct-2016 18:31:37 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php/mailgunputty.php on line 55
+[04-Oct-2016 18:38:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/baycodes/public_html/pr/trackasins/application/views/mailgun-php/mailgunputty.php on line 55
+[05-Oct-2016 04:37:48 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home/baycodes/public_html/pr/trackasins/application/views/cron_job.php on line 272
+[05-Oct-2016 04:38:19 America/Denver] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING) in /home/baycodes/public_html/pr/trackasins/application/views/cron_job.php on line 272
+[05-Oct-2016 04:38:42 America/Denver] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/baycodes/public_html/pr/trackasins/application/views/cron_job.php on line 272
+[05-Oct-2016 04:39:07 America/Denver] PHP Parse error:  syntax error, unexpected '(' in /home/baycodes/public_html/pr/trackasins/application/views/cron_job.php on line 272
+[05-Oct-2016 04:39:30 America/Denver] PHP Parse error:  syntax error, unexpected '$noti_image' (T_VARIABLE) in /home/baycodes/public_html/pr/trackasins/application/views/cron_job.php on line 272
+[06-Oct-2016 03:14:25 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/baycodes/public_html/pr/trackasins/application/views/dashboard.php on line 1156
+[06-Oct-2016 03:14:54 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/baycodes/public_html/pr/trackasins/application/views/dashboard.php on line 1156
+[06-Oct-2016 03:14:58 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/baycodes/public_html/pr/trackasins/application/views/dashboard.php on line 1156
+[06-Oct-2016 03:31:40 America/Denver] PHP Fatal error:  Cannot redeclare Dashboard::checkAndUncheck() in /home/baycodes/public_html/pr/trackasins/application/controllers/Dashboard.php on line 62
+[06-Oct-2016 07:41:12 America/Denver] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/baycodes/public_html/pr/trackasins/application/views/cron_job.php on line 260
+[06-Oct-2016 07:44:20 America/Denver] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/baycodes/public_html/pr/trackasins/application/views/cron_job.php on line 260
+[06-Oct-2016 07:51:15 America/Denver] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/baycodes/public_html/pr/trackasins/application/views/cron_job.php on line 267
+[06-Oct-2016 08:20:21 America/Denver] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/baycodes/public_html/pr/trackasins/application/views/cron_job.php on line 268
+[06-Oct-2016 08:26:22 America/Denver] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/baycodes/public_html/pr/trackasins/application/views/cron_job.php on line 268
+[06-Oct-2016 08:40:13 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/baycodes/public_html/pr/trackasins/application/views/cron_job.php on line 366
+[06-Oct-2016 08:41:59 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/baycodes/public_html/pr/trackasins/application/views/cron_job.php on line 359
+[06-Oct-2016 08:43:03 America/Denver] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/baycodes/public_html/pr/trackasins/application/views/cron_job.php on line 268
+[07-Oct-2016 19:33:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/baycodes/public_html/pr/trackasins/application/views/dashboard.php on line 1157
+[07-Oct-2016 19:34:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/baycodes/public_html/pr/trackasins/application/views/dashboard.php on line 1158
+[08-Oct-2016 10:41:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/baycodes/public_html/pr/trackasins/application/views/dashboard.php on line 362
+[08-Oct-2016 10:59:34 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/baycodes/public_html/pr/trackasins/application/views/dashboard.php on line 362
+[08-Oct-2016 01:11:08 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/baycodes/public_html/pr/trackasins/application/controllers/Dashboard.php on line 245
+[08-Oct-2016 07:33:30 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/baycodes/public_html/pr/trackasins/application/views/cron_job.php on line 380
+[13-Oct-2016 18:23:17 America/Denver] PHP Fatal error:  Call to a member function changeProfilePic() on null in /home/baycodes/public_html/pr/trackasins/application/controllers/Settings.php on line 160
+[13-Oct-2016 18:23:40 America/Denver] PHP Fatal error:  Call to a member function removePP() on null in /home/baycodes/public_html/pr/trackasins/application/controllers/Settings.php on line 329
+[17-Oct-2016 12:03:21 America/Denver] PHP Fatal error:  Call to a member function changeProfilePic() on null in /home/baycodes/public_html/pr/trackasins/application/controllers/Settings.php on line 160
+[18-Oct-2016 05:52:16 America/Denver] PHP Fatal error:  Call to a member function changeProfilePic() on null in /home/baycodes/public_html/pr/trackasins/application/controllers/Settings.php on line 160
+[24-Oct-2016 11:56:00 America/Denver] PHP Fatal error:  Class 'Dompdf\Dompdf' not found in /home/baycodes/public_html/pr/trackasins/application/controllers/Report.php on line 69
